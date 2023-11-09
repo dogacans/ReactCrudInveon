@@ -28,7 +28,7 @@ export default class TutorialsList extends Component {
         const {tutorials, currentIndex} = this.state;
         return (
             <div>
-                <div>Tutorial listesi sayfası</div>
+                <div>Tutorials List</div>
                 <div className="d-flex">
                     <div className="d-flex">
                         <label className="mr-5">Search Term:</label>
